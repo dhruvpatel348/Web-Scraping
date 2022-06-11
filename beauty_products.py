@@ -46,7 +46,7 @@ for product in products:
     csv_writer.writerow([product_name, product_id, headline2, img_link, head_desc])
 csv_file.close()
 
-
+#ok
 
 
 
